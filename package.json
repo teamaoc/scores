@@ -1,0 +1,17 @@
+{
+  "name": "data-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^2.5.0",
+    "csv-parser": "^1.12.1",
+    "moment": "^2.22.2",
+    "promise": "^8.0.1"
+  }
+}
